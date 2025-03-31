@@ -39,6 +39,7 @@ Projekt można uruchomić w:
 - **.NET CLI**
 
 📁 Struktura katalogów
+```
 Kontenery.csproj
 ├── Program.cs
 ├── Kontener.cs
@@ -46,3 +47,4 @@ Kontenery.csproj
 ├── KontenerCieczy.cs
 ├── KontenerChlodniczy.cs
 ├── Statek.cs
+```
